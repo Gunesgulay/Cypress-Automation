@@ -1,4 +1,4 @@
-# Cypress-Automation
+# Cypress-Test-Automation
 
 This project was created to test login and registration scenarios on the website "https://demo.borland.com/InsuranceWebExtJS/". The tools used include NodeJS, JavaScript, Cypress, and Cypress Cloud.
 
